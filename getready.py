@@ -1,4 +1,4 @@
-
+#капс<=константы
 def clear_text(text, trash_items):
     text = text.strip(trash_items)
     return text
